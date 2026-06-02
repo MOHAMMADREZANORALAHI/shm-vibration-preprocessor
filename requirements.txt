@@ -1,6 +1,7 @@
 pandas
-numpy
 matplotlib
 scipy
+numpy
+tkinter
 openpyxl
 xlsxwriter
